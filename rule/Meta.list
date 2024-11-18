@@ -21,4 +21,14 @@ DOMAIN-SUFFIX,smaato.net
 DOMAIN-SUFFIX,dewrain.life
 DOMAIN-SUFFIX,kochava.com
 DOMAIN-SUFFIX,talkatone.com
+DOMAIN-SUFFIX,inmobi.com
+DOMAIN-SUFFIX,inner-active.mobi
+IP-CIDR,13.52.30.139/32,no-resolve
+IP-CIDR,67.199.150.77/32,no-resolve
+IP-CIDR,18.67.209.35/32,no-resolve
+IP-CIDR,34.1.206.116/32,no-resolve
+IP-CIDR,34.144.246.101/32,no-resolve
+IP-CIDR,18.67.209.35/32,no-resolve
+IP-CIDR,34.1.206.116/32,no-resolve
+
 
