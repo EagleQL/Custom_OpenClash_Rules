@@ -1,9 +1,24 @@
-# Perplexity
+# meta
 # edit by moli
+
 DOMAIN-SUFFIX,meta.com
 DOMAIN-SUFFIX,meta.ai
-DOMAIN-SUFFIX,oculus.com
-DOMAIN-SUFFIX,oculuscdn.com
+
+# facebook
 DOMAIN-SUFFIX,facebook.com
 DOMAIN-SUFFIX,facebook-hardware.com
 DOMAIN-SUFFIX,facebook.ai
+
+# quest
+DOMAIN-SUFFIX,oculus.com
+DOMAIN-SUFFIX,oculuscdn.com
+
+# talkatone
+DOMAIN-SUFFIX,mobilefuse.com
+DOMAIN-SUFFIX,smaato.net
+DOMAIN-SUFFIX,amazon-adsystem.com
+DOMAIN-SUFFIX,smaato.net
+DOMAIN-SUFFIX,dewrain.life
+DOMAIN-SUFFIX,kochava.com
+DOMAIN-SUFFIX,talkatone.com
+
