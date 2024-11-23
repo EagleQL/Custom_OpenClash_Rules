@@ -63,3 +63,5 @@ DOMAIN-SUFFIX,pool.ntp.org
 DOMAIN-SUFFIX,dell.com
 # 中国石油支付宝小程序
 DOMAIN-SUFFIX,95504test.com
+# 惠普打印服务
+DOMAIN-SUFFIX,eprintsw.com
