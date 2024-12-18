@@ -2,3 +2,7 @@
 
 # Google SQL
 IP-CIDR,34.82.155.0/24,no-resolve
+
+# video sites
+DOMAIN-SUFFIX,yingshi.tv
+DOMAIN-SUFFIX,jichiguandao.com
