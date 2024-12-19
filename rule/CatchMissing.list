@@ -3,7 +3,4 @@
 # Google SQL
 IP-CIDR,34.82.155.0/24,no-resolve
 
-# Claude
-DOMAIN-SUFFIX,claudeusercontent.com
-
 
