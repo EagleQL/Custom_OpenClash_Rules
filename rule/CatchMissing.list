@@ -6,4 +6,7 @@ IP-CIDR,34.82.155.0/24,no-resolve
 # joyflow Co.
 DOMAIN-SUFFIX,getmyhome.ai
 
+# 字节跳动 IDE trae
+DOMAIN-SUFFIX,trae.ai
+
 
