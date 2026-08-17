@@ -12,3 +12,6 @@ DOMAIN-SUFFIX,trae.ai
 # Jetbrains
 DOMAIN-SUFFIX,jetbrains.com
 
+# Google extra
+DOMAIN-SUFFIX,googleapis.com
+
