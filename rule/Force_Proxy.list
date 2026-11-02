@@ -1,2 +1,4 @@
 # Google extra
 DOMAIN-SUFFIX,googleapis.com
+# tailscale
+DOMAIN-SUFFIX,tailscale.com
