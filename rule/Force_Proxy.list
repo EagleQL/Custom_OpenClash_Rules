@@ -2,3 +2,5 @@
 DOMAIN-SUFFIX,googleapis.com
 # Tailscale
 DOMAIN-SUFFIX,tailscale.com
+# Golang
+DOMAIN-SUFFIX,golang.org
