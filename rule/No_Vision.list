@@ -1,0 +1,7 @@
+# 不能走 VLESS Vision 的目标（策略组：🧪 No-Vision，手动选择，含全部节点）
+# Vision 会解析内层 TLS 再切换转发方式；遇到"内层 TLS 带客户端证书 + 握手后服务端先发数据"
+# 的连接（如 cloud_sql_proxy），自建 Oracle 的 VLESS(Vision) 会间歇性 EOF，hysteria2 / trojan 正常。
+# 分组里保留了所有节点（含 VLESS），方便对比测试哪些节点能通。
+
+# Cloud SQL joyflow-dev / homebuy-dev 公网 IP（cloud_sql_proxy 直连 IP:3307，不经过 DNS）
+IP-CIDR,34.82.155.183/32,no-resolve
